@@ -1,3 +1,22 @@
+Notes:
+1. Created custom RESTful api by Mockly to serve the json dataset.
+
+API : https://run.mocky.io/v3/a2e6da51-c508-43b1-914d-b5e025afdb45
+
+2. Created seperate components for cart, sort, product, product detail, cartdetail.
+
+3. Simple lazy loading implemented.
+
+4. All the routes properly managed as per the instructions.
+
+5. App is functional. Regrettably could not invest more time in Bootstrap UI. 
+
+App hosted at : https://distracted-shockley-507c81.netlify.app/
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
